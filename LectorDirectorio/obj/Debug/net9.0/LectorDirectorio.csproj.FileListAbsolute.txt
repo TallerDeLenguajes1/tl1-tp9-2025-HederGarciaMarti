@@ -1,0 +1,15 @@
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.exe
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.deps.json
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.runtimeconfig.json
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.dll
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.pdb
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.AssemblyInfoInputs.cache
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.AssemblyInfo.cs
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.csproj.CoreCompileInputs.cache
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.sourcelink.json
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.dll
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\obj\Debug\net9.0\refint\LectorDirectorio.dll
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.pdb
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.genruntimeconfig.cache
+C:\Users\Heder\OneDrive\Escritorio\Tp9\tl1-tp9-2025-HederGarciaMarti\LectorDirectorio\obj\Debug\net9.0\ref\LectorDirectorio.dll
