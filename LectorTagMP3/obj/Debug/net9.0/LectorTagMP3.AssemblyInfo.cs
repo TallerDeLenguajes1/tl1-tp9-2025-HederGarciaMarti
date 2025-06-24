@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LectorDirectorio")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LectorTagMP3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93c772339400ad392e5dc8bd4f0b5686901feae7")]
-[assembly: System.Reflection.AssemblyProductAttribute("LectorDirectorio")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LectorDirectorio")]
+[assembly: System.Reflection.AssemblyProductAttribute("LectorTagMP3")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LectorTagMP3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
